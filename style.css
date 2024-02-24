@@ -82,6 +82,7 @@ main{
         font-size: 36px;
         font-weight: 900;
         color: #1F2937;
+        margin-top: 100px;
     }
 
     .card-box{
@@ -114,13 +115,14 @@ main{
     }
         .quote{
             font-size: 36px;
-            font-weight: lighter;
+            font-weight: light;
             font-style: italic;
         }
 
         .author{
             text-align: right;
             font-weight: bold;
+            font-size: 24px;
         }
 
 
